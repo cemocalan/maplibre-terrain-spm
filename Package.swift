@@ -8,8 +8,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "MapLibre",
-      url: "https://github.com/cemocalan/maplibre-native/releases/download/ios-7.0.0-terrain.1/MapLibre.dynamic.xcframework.zip",
-      checksum: "87e3b6777bed5cfb9ce0518a063d262d361361c6d5b1e0f769eb25d6defe682e"
+      url: "https://github.com/cemocalan/maplibre-native/releases/download/ios-7.0.0-terrain.2/MapLibre.dynamic.xcframework.zip",
+      checksum: "71dbe2e38206e6575fc1b3850c47c8de9e886fafc86c5cadedfc46d7d27d2361"
     )
   ]
 )
